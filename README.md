@@ -1,6 +1,6 @@
-# GRAMLAC 🤖
+# GRAMLAC™ 🤖
 
-**Generative Retrieval And Multi-step Latent Autoregressive Company Intelligence**
+**Generative Retrieval And Multi-step Latent Autoregressive Company Intelligence™**
 
 A privacy-first, multi-tenant AI platform for company knowledge management with RAG (Retrieval-Augmented Generation) and CALM-inspired reasoning.
 
@@ -193,10 +193,13 @@ Copyright (c) 2025 Anushka Vaidya. All Rights Reserved.
 
 This project and its source code are proprietary and confidential. Unauthorized copying, modification, distribution, or use of this software, via any medium, is strictly prohibited without explicit written permission from the copyright holder.
 
+**Trademark Notice:**
+GRAMLAC™ is a trademark of Anushka Vaidya. All rights reserved.
+
 **Citation:**
 If you reference or discuss this project, please cite as:
 ```
-Vaidya, A. (2025). GRAMLAC: Generative Retrieval And Multi-step Latent
+Vaidya, A. (2025). GRAMLAC™: Generative Retrieval And Multi-step Latent
 Autoregressive Company Intelligence. GitHub repository.
 ```
 
@@ -219,4 +222,4 @@ For questions, feedback, or support inquiries:
 
 ---
 
-**Made with ❤️ by the GRAMLAC Team**
+**Made with ❤️ by the GRAMLAC™ Team**
