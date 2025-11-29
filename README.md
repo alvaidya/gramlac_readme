@@ -22,19 +22,19 @@ Stay tuned for the official launch announcement!
 ## 🚀 Features
 
 ### Core Capabilities
-- ✅ **Multi-Tenant Architecture** - Isolated company data with role-based access
-- ✅ **AI-Powered Chat** - Context-aware responses using company documents
-- ✅ **Document Management** - Upload & index PDFs, DOCX, TXT files
-- ✅ **RAG Pipeline** - Retrieval-Augmented Generation with semantic search
-- ✅ **CALM Reasoning** - Multi-step latent autoregressive reasoning
+- **Multi-Tenant Architecture** - Isolated company data with role-based access
+- **AI-Powered Chat** - Context-aware responses using company documents
+- **Document Management** - Upload & index PDFs, DOCX, TXT files
+- **RAG Pipeline** - Retrieval-Augmented Generation with semantic search
+- **CALM Reasoning** - Multi-step latent autoregressive reasoning
 
 ### Security & Compliance
-- 🔒 **Encryption at Rest** - AES-256 encryption for database and files
-- 🔐 **Password Authentication** - Bcrypt hashing with JWT tokens
-- 🛡️ **GDPR Compliance** - Data export, deletion, and privacy endpoints
-- 📊 **Performance Monitoring** - Real-time metrics and cost tracking
-- ⚡ **Rate Limiting** - Protection against abuse and brute force
-- 🚦 **Input Validation** - XSS and injection prevention
+- **Encryption at Rest** - AES-256 encryption for database and files
+- **Password Authentication** - Bcrypt hashing with JWT tokens
+- **GDPR Compliance** - Data export, deletion, and privacy endpoints
+- **Performance Monitoring** - Real-time metrics and cost tracking
+- **Rate Limiting** - Protection against abuse and brute force
+- **Input Validation** - XSS and injection prevention
 
 ### Analytics & Observability
 - **Role-Scoped Insight**: Members only see their own history—never anyone else’s. Insight is scoped correctly: clarity for decision-makers, privacy for everyone else.
@@ -43,10 +43,10 @@ Stay tuned for the official launch announcement!
 - **Metrics**: API metrics, cache stats, vector DB stats; optional Sentry for errors.
 
 ### Infrastructure
-- ☁️ **Cloud-Ready** - Supports Redis Cloud (Upstash) and Qdrant Cloud
-- 📈 **Caching Layer** - Redis caching for 10-100x faster queries
-- 🔍 **Vector Search** - Qdrant for semantic document similarity
-- 📉 **Cost Tracking** - Monitor LLM API usage and expenses
+- **Cloud-Ready** - Supports Redis Cloud (Upstash) and Qdrant Cloud
+- **Caching Layer** - Redis caching for 10-100x faster queries
+- **Vector Search** - Qdrant for semantic document similarity
+- **Cost Tracking** - Monitor LLM API usage and expenses
 
 ---
 
@@ -156,15 +156,15 @@ vercel deploy
 ## 🔒 Security Features
 
 ### Implemented
-- ✅ Password hashing (bcrypt)
-- ✅ JWT authentication
-- ✅ CORS restrictions
-- ✅ Request size limits
-- ✅ Input sanitization
-- ✅ Encryption at rest
-- ✅ GDPR compliance
-- ✅ Error tracking (Sentry)
-- ✅ Structured logging
+- Password hashing (bcrypt)
+- JWT authentication
+- CORS restrictions
+- Request size limits
+- Input sanitization
+- Encryption at rest
+- GDPR compliance
+- Error tracking (Sentry)
+- Structured logging
 
 ### Rate Limits
 - Signup: 3 per hour per IP
